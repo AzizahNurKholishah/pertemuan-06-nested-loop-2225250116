@@ -2,7 +2,9 @@
 
 
 **Nama:** Azizah Nur Kholishah
+
 **NIM:** 2225250116
+
 **Kelas:** 3E
 
 ## Tujuan
@@ -44,11 +46,11 @@ Setelah program dijalankan, masukkan nilai `n`. Nilai `n` harus lebih dari 0. Ji
 
 ## Hasil Pengujian
 
-| No. | Input `n` | Hasil yang Diharapkan               | Keluaran Aktual                     |  Status  |
+| No. | Input | Hasil yang Diharapkan               | Keluaran Aktual                     |  Status  |
 | --: | --------: | ----------------------------------- | ----------------------------------- | :------: |
-|   1 |         1 | Pasangan = 1, Total = 1, Genap = 0  | Pasangan = 1, Total = 1, Genap = 0  | Berhasil |
-|   2 |         2 | Pasangan = 4, Total = 9, Genap = 3  | Pasangan = 4, Total = 9, Genap = 3  | Berhasil |
-|   3 |         3 | Pasangan = 9, Total = 36, Genap = 5 | Pasangan = 9, Total = 36, Genap = 5 | Berhasil |
+|   1 | n = 1 | Pasangan = 1, Total = 1, Genap = 0  | Pasangan = 1, Total = 1, Genap = 0  | Berhasil |
+|   2 | n = 2 | Pasangan = 4, Total = 9, Genap = 3  | Pasangan = 4, Total = 9, Genap = 3  | Berhasil |
+|   3 | n = 3 | Pasangan = 9, Total = 36, Genap = 5 | Pasangan = 9, Total = 36, Genap = 5 | Berhasil |
 
 ## Analisis Efisiensi
 
